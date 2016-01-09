@@ -32,14 +32,18 @@ Installing is just as you would any other WP Plugin:
 
 ## Frequently Asked Questions
 
-Q : Does this plugin work with any WordPress theme?
-A : No. It works with Customizr theme only.
+**Q** : **Does this plugin work with any WordPress theme?**
 
-Q : Does this plugin work any version of Customizr theme?
-A : I'm not sure. The initial development of this plugin used Customizr version 3.4.15. It has been tested with the latest version. If you found it didn't work with version older than 3.4.15, please let me know.
+**A** : *No. It works with Customizr theme only.*
 
-Q : How to display the image slider?
-A : You can specify it through the "Featured Image" box. Your selected post type should support this option.
+
+**Q** : **Does this plugin work any version of Customizr theme?**
+
+**A** : *I'm not sure. The initial development of this plugin used Customizr version 3.4.15. It has been tested with the latest version. If you found it didn't work with version older than 3.4.15, please let me know.*
+
+**Q** : **How to display the image slider?**
+
+**A** : *You can specify it through the "Featured Image" box. Your selected post type should support this option.*
 
 
 ## Changelog
