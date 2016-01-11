@@ -53,7 +53,7 @@ A : You can specify it through the "Featured Image" box. Your selected post type
 == Screenshots ==
 
 1. Plugin admin panel
-2. Slider data
+2. Slider data fields
 
 == Changelog ==
 
