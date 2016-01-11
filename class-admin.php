@@ -185,7 +185,7 @@ if ( ! class_exists( 'Risbl_Prefix_Admin' ) ) :
 															  $args['post_type'] = isset($options["post_type"]) ? $options["post_type"] : ''; // Your post type
 															  $args['post_status'] = 'publish';
 															  $args['meta_query'] = array(
-																	'relation' => 'OR',
+																	'relation' => 'AND',
 															    array(
 																		'key'     => 'risbl_prefix_set_as_slider',
 																		'value'   => 1,

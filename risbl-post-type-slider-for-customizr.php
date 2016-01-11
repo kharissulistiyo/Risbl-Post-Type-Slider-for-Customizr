@@ -121,7 +121,7 @@ if ( ! function_exists( 'risbl_prefix_get_slides_slides' ) ) :
     $args['post_type'] = isset($options["post_type"]) ? $options["post_type"] : ''; // Your post type
     $args['post_status'] = 'publish';
     $args['meta_query'] = array(
-      'relation' => 'OR',
+      'relation' => 'AND',
       array(
         'key'     => 'risbl_prefix_set_as_slider',
         'value'   => 1,
